@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "car", "family\car.csproj", "{E4D29779-AB92-493A-B50E-2A2DE30EC529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carSeller", "carSeller\carSeller.csproj", "{89E536FD-5252-4FF0-9D64-E3D2B8876149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt", "Sqrt\Sqrt.csproj", "{7F545ECC-F56E-4A51-81EF-CEE7BDADED1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D29779-AB92-493A-B50E-2A2DE30EC529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D29779-AB92-493A-B50E-2A2DE30EC529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D29779-AB92-493A-B50E-2A2DE30EC529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D29779-AB92-493A-B50E-2A2DE30EC529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E536FD-5252-4FF0-9D64-E3D2B8876149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E536FD-5252-4FF0-9D64-E3D2B8876149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E536FD-5252-4FF0-9D64-E3D2B8876149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E536FD-5252-4FF0-9D64-E3D2B8876149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F545ECC-F56E-4A51-81EF-CEE7BDADED1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F545ECC-F56E-4A51-81EF-CEE7BDADED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F545ECC-F56E-4A51-81EF-CEE7BDADED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F545ECC-F56E-4A51-81EF-CEE7BDADED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

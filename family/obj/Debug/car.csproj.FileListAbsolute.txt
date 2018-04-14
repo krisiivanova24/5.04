@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\bin\Debug\family.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\bin\Debug\family.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\bin\Debug\family.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\obj\Debug\car.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\obj\Debug\family.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\family\obj\Debug\family.pdb

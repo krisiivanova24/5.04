@@ -1,0 +1,5 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\Sqrt\bin\Debug\Sqrt.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\Sqrt\bin\Debug\Sqrt.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\Sqrt\bin\Debug\Sqrt.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\Sqrt\obj\Debug\Sqrt.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\Sqrt\obj\Debug\Sqrt.pdb
