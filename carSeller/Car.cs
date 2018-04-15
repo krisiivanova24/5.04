@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace carSeller
 {
-    class Car
+    public class Car // NEDOVYRSHENA
     {
         private string model;
         private string engine;
         private int weight;//
         private string colour;//
-        
+                              // private List<Engine> typeCar;
+        public Car()
+        {
+          
+        }
 
         public Car(string model, string engine)
         {
@@ -50,7 +54,7 @@ namespace carSeller
             get { return this.weight; }
             set { this.weight = value; }
         }
-        public string Colour
+        public string Color
         {
             get { return this.colour; }
             set { this.colour= value; }
@@ -60,5 +64,10 @@ namespace carSeller
             get { return this.engine; }
             set { this.engine = value; }
         }
+        //public List<Engine> TypeCar
+        //{
+        //    get { return this.typeCar; }
+        //    set { this.typeCar = value; }
+        //}
     }
 }

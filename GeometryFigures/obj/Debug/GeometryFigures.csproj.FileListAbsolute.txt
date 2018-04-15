@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\bin\Debug\GeometryFigures.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\bin\Debug\GeometryFigures.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\obj\Debug\GeometryFigures.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\obj\Debug\GeometryFigures.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\Exercises04.04\GeometryFigures\obj\Debug\GeometryFigures.pdb
